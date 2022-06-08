@@ -55,7 +55,8 @@ since the p value from one way anova was such a small number we are going to fol
 plot(TukeyHSD(model1))
 ```
 
+The middle back and front back confidence intervals are less than zero than the results would be significantly different.    
+
 ## Conclusions
 
-The middle back and front back confidence intervals are less than zero than the results would be significantly different.  
 
