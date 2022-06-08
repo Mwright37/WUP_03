@@ -39,6 +39,11 @@ Based on the box plot the back row consumes more alcohol than both the front and
 
 ## Numerical Summarys 
 
+```{r}
+favstats(alcohol~Seat,data=davisdata)
+```
+The mean for the people in the back seat is three times as much than the people in the middle seats and even more than the people in the front seats.  
+
 ## Inferential Tests
 
 ## Conclusions
